@@ -1,0 +1,21 @@
+{
+  "target_urls": [
+    "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-monetaria",
+    "https://www.dane.gov.co/index.php/estadisticas-por-tema/empleo-y-desempleo/mercado-laboral/informacion-tecnica-y-metodologica"
+  ],
+  "download_base_folder": "downloads",
+  "organization_rule": "type_then_date",
+  "allowed_extensions": [
+    ".pdf",
+    ".png",
+    ".jpg",
+    ".jpeg",
+    ".gif",
+    ".zip",
+    ".xlsx",
+    ".docx",
+    ".pptx"
+  ],
+  "request_delay_seconds": 2,
+  "download_history_file": "downloaded_files_history.json"
+}

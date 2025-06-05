@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+venv/
+
+# OS generated files
+.DS_Store
+.env
+
+# Files
+downloads/
+downloaded_files_history.json
